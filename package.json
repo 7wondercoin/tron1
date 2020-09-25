@@ -41,6 +41,7 @@
     "babel-register": "^6.26.0",
     "move-cli": "^1.2.0",
     "rimraf": "^2.6.2",
-    "solc": "^0.4.25"
-  }
+    "solc": "^0.5.4"
+  },
+  "proxy": "http://localhost:5000"
 }

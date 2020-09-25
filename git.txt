@@ -1,9 +1,0 @@
-$ git push --force-with-lease origin-push
-
-$ git fetch origin-push
-
-$ git remote add origin-push https://github.com/rj7022804626/myApp.git
-
-$ git push -u origin master
-
-$ git commit -m "first commit"
